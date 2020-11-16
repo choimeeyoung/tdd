@@ -1,0 +1,19 @@
+[
+    {
+        "name": "name01",
+        "description": "good to use",
+        "price": 15
+    },
+
+    {
+        "name": "name02",
+        "description": "good to use",
+        "price": 14
+    },
+
+    {
+        "name": "name03",
+        "description": "good to use",
+        "price": 13
+    }
+]
